@@ -1,0 +1,27 @@
+1st sept
+
+Hey there
+It's 4AM in the morning and I'm finally done making the frontpage of the website. I asked you yesterday if you liked
+colorful stuffs more than classic stuffs. You said classic and then changed to colorful when I said I assumed you like
+colorful stuffs. Well, problem sorted. I mixed both of them. Genius, I know. I woke up at 12:30AM or 1AM and it's
+pretty late now but I'm so excited to show you this website that I can't see a hint of sleep on my face. Do you know, I was
+gonna keep a different background for the front page but my code wasn't working. Midway through writing the code of the other
+background, I realized that I missed a semicolon in the first one -_- One missing semicolon and my keyboard was gonna pay 
+the price. I made the page for the poems only using HTML a month ago and I added its link to the frontpage. For the animations
+that I added in the frontpage, I practised the styling language, CSS, for one month and now I'm baffled myself with what I did 
+cause I never imagined I could. Okay, these notes are more about my progress with this website so this might bore you so you don't 
+necessarily have to read this. I don't think I'm even gonna add these progress notes to the website but let's see. And damn, this is fun. I'm so excited but kinda nervous to see your reaction to this. This is 
+my first ever full stack website and I don't wanna disappoint you. 
+
+__________________________________________________________________________________________________________________________
+
+2nd Sept
+
+Hey there
+It's 1AM and my internet is barely working I'm so frustrated. I could've finished a lot of work right now. But it's okay, I finished making the page for "MORE"
+which basically includes stuffs you like so in case you're ever bored, you'll always have that page to go to. I'm gonna make a heart out of CSS tomorrow. Our heart. 
+Doesn't sound very romantic after I added the term 'CSS', hehe. I'm jamming to Backstreet boys right now. Damn they're cool. Okay, I'm gonna stop staring at the pages 
+I've made and go to sleep. I'm hoping to return to it in the morning and I really hope that the internet works. I'm hoping to finish the website by the end of this month
+and I might get more ideas to add in the future so I'll keep updating it. I've still got to find a way to get an SSL certificate for the website so that bloody google 
+doesn't show that the website is not secure. Most of them are paid and I can't transact money online cause I'm not allowed to use net banking.
+Alright I'mma go sleep now.
